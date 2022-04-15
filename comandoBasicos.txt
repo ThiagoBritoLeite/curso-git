@@ -1,0 +1,5 @@
+git init = Cria um repositorio
+git status = mostra algumas informações
+
+git config --local user.name "Seu nome aqui"
+git config --local user.email "seu@email.aqui"
