@@ -3,3 +3,5 @@ git status = mostra algumas informações
 
 git config --local user.name "Seu nome aqui"
 git config --local user.email "seu@email.aqui"
+
+git add =  monitora todos os arquivos de uma pasta.
